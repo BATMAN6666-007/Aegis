@@ -1,0 +1,317 @@
+text,label
+"Urgent: Your account has been suspended due to suspicious activity. Click here to verify your identity.",1
+"Dear customer, we noticed a login attempt from a new device. Please update your security settings immediately.",1
+"Congratulations! You've won a $1000 Amazon gift card. Claim your prize by clicking the link below.",1
+"Security Alert: Your bank account will be locked in 24 hours if you do not confirm your personal details.",1
+"Final Notice: Your subscription has expired. Update your payment method here to avoid service interruption.",1
+"Your PayPal account is restricted. Log in to our secure portal to resolve this issue.",1
+"Package delivery failed. We need your address verification to reschedule shipping. Click here.",1
+"Action Required: Unusual sign-in activity detected on your account. Please reset your password.",1
+"Verify your email address to continue using our services and avoid account deactivation.",1
+"Official Tax Refund: You are eligible for a refund of $450. Submit your details to receive payment.",1
+"WARNING: Your email storage is full. Upgrade now or lose incoming messages.",1
+"Immediate action required: Invoice #89234 is overdue. Please pay via the attached link.",1
+"You have a pending voice message. Click here to listen to the audio file.",1
+"Hi Team, please find the updated project timeline attached for your review.",0
+"Regarding our meeting tomorrow, does 3:00 PM work for everyone?",0
+"Your Amazon order has been shipped and is expected to arrive by Thursday.",0
+"Can you please send me the login credentials for the staging server?",0
+"The latest monthly newsletter is now available on our company portal.",0
+"Reminder: Your dental appointment is scheduled for next Tuesday at 10:30 AM.",0
+"Thanks for the help with the ML assignment today, I really appreciate it!",0
+"Your monthly utility bill is ready for viewing. Log in to your account to see the statement.",0
+"The deadline for the mini-project report has been extended to Friday afternoon.",0
+"Are we still on for dinner tonight at the usual spot?",0
+"Please review the attached SRS document and let me know if any changes are needed.",0
+"Happy Birthday! Hope you have a wonderful day and a great year ahead.",0
+"The system maintenance is scheduled for this weekend. Expect 2 hours of downtime.",0
+"Critical Alert: Your Bitcoin wallet has been accessed from a new IP. Secure your funds immediately.",1
+"Your MetaMask wallet requires verification. Click here to confirm your recovery phrase.",1
+"Binance Security: Withdrawals have been suspended on your account. Verify identity to restore access.",1
+"You have received 0.54 BTC! Log in to your dashboard to claim your cryptocurrency.",1
+"Coinbase Alert: A transaction of $4,500 is pending. If this wasn't you, cancel it here.",1
+"Airdrop claim successful! Connect your wallet to receive your exclusive tokens.",1
+"Notice: We detected unauthorized login attempts on your crypto exchange account. Reset password now.",1
+"Your Trust Wallet needs a security upgrade. Please sync your wallet using the link provided.",1
+"Reminder: Your crypto assets will be frozen in 2 hours due to policy violations. Act now.",1
+"Congratulations! You've been selected for our exclusive Ethereum giveaway. Click to participate.",1
+"Netflix: Your latest payment was declined. Please update your billing information to continue watching.",1
+"Action required: Your Spotify Premium subscription is paused. Update your card details today.",1
+"Hulu Support: We could not process your monthly payment. Avoid account suspension by clicking here.",1
+"Disney+ Alert: Your account password has been compromised. Please secure your account immediately.",1
+"Your Amazon Prime membership expires today. Renew now to keep your benefits.",1
+"HBO Max: A new device has signed into your account. If this wasn't you, click here to lock it.",1
+"Apple TV+: Your free trial is ending. Please confirm your payment details to avoid interruption.",1
+"Your streaming service bundle will be deactivated in 24 hours. Verify your account to prevent this.",1
+"Payment Failed: We were unable to renew your Netflix plan. Update your details here.",1
+"YouTube Premium: Your account has been suspended for violating our terms. Appeal here.",1
+"IT Helpdesk: Your Office 365 password expires in 2 hours. Click here to keep the same password.",1
+"Administrator: Your mailbox has exceeded its storage limit. Upgrade your quota to receive new emails.",1
+"URGENT: Mandatory cybersecurity training is due today. Access the portal via this link.",1
+"HR Dept: Please review the updated employee benefits document attached before end of day.",1
+"IT Support: We are migrating to a new email server. Validate your credentials to avoid losing data.",1
+"Your Outlook account will be permanently deleted unless you verify your active status.",1
+"Company Portal: A document has been shared with you via OneDrive. Log in to view the file.",1
+"System Administrator: Unauthorized access detected on your workstation. Verify your identity.",1
+"Payroll Update: Your direct deposit information needs to be confirmed for the upcoming pay cycle.",1
+"Helpdesk Ticket #4928: Your request has been resolved. Click here to view the technician's notes.",1
+"USPS: Your package is currently stuck at our sorting facility due to unpaid postage. Pay $1.99 here.",1
+"FedEx Delivery Exception: We could not deliver your parcel. Please confirm your delivery address.",1
+"UPS Alert: Your shipment has been delayed. Click the link to track and reschedule delivery.",1
+"DHL Notice: Your package is subject to a customs fee of $4.50. Pay now to release your shipment.",1
+"Amazon Delivery: We attempted to deliver your order but nobody was home. Reschedule here.",1
+"Post Office Notification: You have a certified letter waiting. Verify your identity to arrange drop-off.",1
+"Track your package: Your order #99382 cannot be delivered due to an incorrect zip code.",1
+"Failed Delivery Attempt: Click the link to update your delivery preferences and avoid return to sender.",1
+"Shipping Alert: Your item was seized at customs. Please provide your tax ID to release it.",1
+"Delivery Notice: We need additional information to complete your home delivery. Update details now.",1
+"HR Alert: The new remote work policy requires your immediate signature. Click here to sign.",1
+"Attention Employees: The Q3 bonus structure has been revised. View the confidential details here.",1
+"Payroll Admin: There was an error processing your last paycheck. Please verify your routing number.",1
+"Important: Your employee portal access will be revoked tonight unless you re-authenticate.",1
+"Human Resources: You have a mandatory performance review meeting scheduled. Check the link for details.",1
+"Staff Notice: Your annual W-2 form is ready for download. Please log in to view your tax documents.",1
+"Confidential: Company restructuring plans are attached. Please read immediately.",1
+"Benefits Department: Open enrollment ends today. Click the link to finalize your healthcare plan.",1
+"HR Notification: Someone has filed a formal complaint against you. Read the full report here.",1
+"Employee Support: Your vacation request has been denied. Click here for the manager's comments.",1
+"IRS Alert: You are eligible for a $1,200 tax refund. Fill out the attached form to claim it.",1
+"Tax Notification: We noticed an error on your recent tax return. Fix it immediately to avoid a fine.",1
+"Department of Treasury: You have an unpaid tax balance. Legal action will be taken if not paid today.",1
+"Gov Alert: Your social security number has been suspended due to suspicious activity. Contact us.",1
+"Tax Refund Approved: Click here to verify your bank details and receive your direct deposit.",1
+"Official Notice: You must update your healthcare marketplace details or face a tax penalty.",1
+"State Dept: Your passport renewal application requires further documentation. Upload it here.",1
+"Medicare Alert: Your new Medicare card is ready. Please confirm your address to receive it.",1
+"DMV Notice: Your driver's license is scheduled for suspension. Pay your outstanding tickets now.",1
+"Government Grant: You have been approved for a $5,000 relief grant. Claim your funds here.",1
+"Invoice #5928 from Norton Antivirus: Your subscription has automatically renewed for $399.99.",1
+"McAfee Security: Your PC is infected with 5 viruses. Click here to run a critical system scan.",1
+"Geek Squad Receipt: Thank you for your purchase of $450.00. If you did not make this order, call us.",1
+"PayPal Invoice: You've sent $250 to John Doe. Click here to cancel this transaction if unauthorized.",1
+"Your Apple ID was used to purchase an iPhone 14 for $999. Click the link to dispute this charge.",1
+"Norton 360: Your device is no longer protected. Renew your subscription immediately.",1
+"Auto-renewal confirmed: $299 will be charged to your card for LifeLock services. Cancel here.",1
+"Invoice Overdue: Your account will be sent to collections if payment is not received today.",1
+"Payment Receipt: Thanks for your order. Download the attached PDF to view your invoice details.",1
+"Warning: Your antivirus license has expired. Your data is currently at risk. Update now.",1
+"Bank of America: We noticed unusual activity on your debit card. Please verify your recent purchases.",1
+"Chase Bank Alert: Your account has been temporarily locked for your protection. Log in to unlock.",1
+"Wells Fargo: A transfer of $1,500 was initiated from your checking account. Cancel it here.",1
+"Citibank Security: We need to verify your identity. Please complete the security steps to proceed.",1
+"Capital One: Your credit card statement is ready. Log in to view your balance and make a payment.",1
+"Notice from your bank: Your online banking access will be restricted unless you update your profile.",1
+"Discover Card: Did you attempt a purchase of $850 at Target? Reply YES or click the link to decline.",1
+"Urgent: Your bank account routing number has been changed. If this wasn't you, revert it now.",1
+"Banking Alert: Your Zelle transfer has failed. Click here to update your payment method.",1
+"Fraud Alert: Suspicious login detected on your mobile banking app. Secure your account now.",1
+"Walmart: You have been selected to win a free $500 gift card! Take our 1-minute survey to claim.",1
+"Amazon Rewards: Congratulations, you are our winner of the day. Click here for your free prize.",1
+"Your Target order #8372 cannot be fulfilled. Please confirm your billing details to process a refund.",1
+"Home Depot Giveaways: Claim your free Milwaukee tool set today by entering your shipping address.",1
+"Best Buy Alert: We found an error with your recent order. Please verify your payment information.",1
+"You've won! A brand new iPad Pro is waiting for you. Just pay $2 for shipping.",1
+"Shopper Alert: We are giving away 50 exclusive gift baskets. Claim yours before they are gone.",1
+"Amazon Security: Your account is on hold pending identity verification. Upload your ID here.",1
+"Order Confirmation: Your purchase of a Macbook Pro is complete. Track your shipment here.",1
+"Exclusive Offer: Get 90% off premium electronics. This link expires in 15 minutes!",1
+"Facebook Security: Someone logged into your account from Russia. Secure your profile immediately.",1
+"Instagram Alert: Your account will be permanently deleted in 24 hours for copyright infringement.",1
+"Twitter Verification: Maintain your blue checkmark by verifying your login credentials here.",1
+"LinkedIn Notice: You appeared in 30 new searches this week. Upgrade to Premium to see who.",1
+"TikTok Support: Your recent video violates our community guidelines. Appeal this decision here.",1
+"WhatsApp Alert: Your account is being registered on a new device. Do not share your code.",1
+"Snapchat: We detected a login from an unrecognized browser. Change your password to stay safe.",1
+"Facebook Support: Your business page is scheduled for unpublication. Verify your admin rights.",1
+"Instagram Copyright Center: A complaint has been filed against your post. Review the claim here.",1
+"Social Media Alert: You have 5 pending friend requests. Log in to view and accept them.",1
+"Email Quota Warning: You have used 99% of your email storage. Delete files or upgrade now.",1
+"Mail Administrator: You have 6 undelivered messages. Click here to release them to your inbox.",1
+"Webmail Notice: Your email will be deactivated due to inactivity. Log in to keep it active.",1
+"Action Required: Update your email server settings to continue receiving messages.",1
+"Warning: Failure to verify your email address will result in permanent account suspension.",1
+"Your incoming emails are currently blocked. Click the link to authenticate your account.",1
+"Email Security: We intercepted a malicious login attempt. Please reset your security questions.",1
+"Postmaster: Message delivery failed. Click the attachment to view the bounce report.",1
+"Microsoft account team: Unusual sign-in activity. Review your recent logins here.",1
+"Gmail Alert: A new app was granted access to your emails. Review permissions immediately.",1
+"You've been selected as the winner of the $1,000,000 Sweepstakes! Claim your winnings now.",1
+"Lottery Notification: Your email address was chosen randomly to win a grand prize.",1
+"Claim your reward: You have earned 50,000 bonus points. Redeem them for a $500 gift card here.",1
+"Congratulations! You are the lucky visitor of the day. Click to spin the wheel and win.",1
+"Your mystery box is ready to be shipped. Open your email to reveal your prize.",1
+"Gift Card Alert: A $100 Starbucks card has been sent to you. Click to view barcode.",1
+"Exclusive Prize: You've won a free 7-day cruise! Confirm your travel details to secure your spot.",1
+"Lucky Winner! Claim your brand new Samsung Galaxy S23 today. Only a few left in stock.",1
+"Sweepstakes Final Notice: This is your last chance to claim your $50,000 cash prize.",1
+"Reward Pending: Your loyalty points are expiring today. Redeem them for electronics now.",1
+"Legal Notice: You have a pending subpoena. Download the attached document to view the court date.",1
+"Police Department: You have an unpaid traffic citation. Pay the fine now to avoid a warrant.",1
+"Law Enforcement Alert: Suspicious activity linked to your IP address. Read the official report.",1
+"Court Summons: You are required to appear in court next week. View your case details here.",1
+"Legal Department: A copyright infringement lawsuit has been filed against you. Review the case.",1
+"Notice of Eviction: Please find your official eviction notice attached. Immediate action required.",1
+"Traffic Violation: Camera caught you speeding. Pay your $150 fine via the portal below.",1
+"FBI Warning: Your computer has been locked due to illegal downloads. Pay the fine to unlock.",1
+"Legal Action Notice: Your outstanding debt is being moved to litigation. Settle now to avoid court.",1
+"Arrest Warrant Issued: Please contact our legal team immediately to resolve this matter.",1
+"You have a new voice message from an unknown caller. Listen to the 0:45 audio clip here.",1
+"Ring Central: You missed a video call from HR. Click to view the missed call details.",1
+"VoiceMail Alert: A new 2-minute voice message is waiting in your inbox. Access it now.",1
+"eFax: You have received a new secure fax document. Click the link to download the PDF.",1
+"PBX System: You have 3 pending voicemails. Log in to the communication portal to listen.",1
+"New Audio Message: Caller left a message regarding your account. Click to play.",1
+"Voicemail transcription failed. Please click the secure link to listen to the audio directly.",1
+"Fax delivery receipt: A 5-page document has been successfully received. View the attachment.",1
+"Missed Call Notification: You have a voicemail from your bank. Listen to it immediately.",1
+"Digital Fax: You've received an encrypted fax from a legal representative. Open securely here.",1
+"Hey, are we still meeting for lunch at 12:30 today?",0
+"Can you please send over the latest quarterly report when you have a moment?",0
+"Looking forward to our sync tomorrow! I've attached the agenda for review.",0
+"The design files have been uploaded to the shared drive. Let me know what you think.",0
+"Reminder: The weekly team stand-up starts in 15 minutes in conference room B.",0
+"Thanks for catching that typo in the presentation. I'll fix it right away.",0
+"Great job on the presentation today! The client seemed very impressed.",0
+"Could you approve my PTO request in the system before the end of the day?",0
+"I'll be working remotely tomorrow, but I'll be online and available on Slack.",0
+"Do you know who the main point of contact is for the new marketing campaign?",0
+"Here are the meeting minutes from yesterday's brainstorming session.",0
+"I've updated the project roadmap based on the feedback from the stakeholders.",0
+"Just a heads up, I'll be a few minutes late to the meeting due to traffic.",0
+"Could you please review my pull request? I've added the new feature we discussed.",0
+"Let's schedule a quick 15-minute call to align on the deliverables for next week.",0
+"The office will be closed on Monday for the holiday. Have a great long weekend!",0
+"Please remember to submit your expense reports by Friday at 5 PM.",0
+"Welcome to the team, Sarah! We're excited to have you on board.",0
+"Our new company wellness program launches next week. Check the intranet for details.",0
+"Don't forget to complete the employee engagement survey. Your feedback matters.",0
+"Hey man, it was great catching up last night. We should do it again soon.",0
+"Happy Anniversary! Wishing you both a wonderful day filled with love.",0
+"Did you see the game last night? That ending was absolutely crazy!",0
+"What time are we heading to the movies on Saturday?",0
+"Hope you're feeling better! Let me know if you need anything while you recover.",0
+"Can you pick up some milk and eggs on your way home?",0
+"I finally finished reading that book you recommended. It was fantastic!",0
+"Looking forward to the barbecue this weekend. What should I bring?",0
+"Good luck with your interview tomorrow! You're going to do great.",0
+"Just wanted to say hi and see how your week is going.",0
+"Your Amazon order for the coffee beans has been delivered to your front porch.",0
+"Shipping Confirmation: Your new sneakers have shipped and will arrive on Wednesday.",0
+"Your DoorDash order from Thai Express is on the way. Track your driver here.",0
+"Instacart: Your shopper has finished gathering your items and is heading to checkout.",0
+"Your monthly utility bill for August is ready. The amount due is $85.40.",0
+"Receipt for your recent purchase at Target is attached. Thank you for shopping with us.",0
+"Your Netflix subscription has been successfully renewed for another month.",0
+"Payment Confirmation: We received your payment of $120.00 for your car insurance.",0
+"Your mobile phone bill is due in 5 days. Log in to your account to view the details.",0
+"Thank you for your donation to the local animal shelter. Your receipt is attached.",0
+"Reminder: You have an appointment with Dr. Smith tomorrow at 2:00 PM.",0
+"Your dog's annual vaccination appointment is scheduled for next Friday at 10 AM.",0
+"Please remember to bring your insurance card to your dental appointment on Monday.",0
+"Your prescription is ready for pickup at the Main Street Pharmacy.",0
+"Your eye exam is confirmed for Thursday at 4:30 PM. Please arrive 10 minutes early.",0
+"The syllabus for the upcoming semester has been posted on the course website.",0
+"Reminder: The final paper for History 101 is due on Friday at midnight.",0
+"Class is canceled tomorrow due to the professor's illness. Please read chapter 4.",0
+"Your grades for the midterm exam have been uploaded to the student portal.",0
+"Don't forget about the study group meeting at the library tonight at 7 PM.",0
+"Flight Itinerary: Your flight to New York departs at 8:00 AM on Friday.",0
+"Your hotel reservation at the Marriott is confirmed. Check-in is at 3:00 PM.",0
+"Rental Car Confirmation: Your vehicle will be ready at the airport pickup location.",0
+"Your train tickets to Chicago are attached to this email as a PDF.",0
+"Reminder: Your Airbnb check-out time is 11:00 AM tomorrow. Have a safe trip!",0
+"Your tickets for the concert have been issued. Open the app to view the QR code.",0
+"Event Reminder: The tech conference starts tomorrow at 9 AM. Here's the schedule.",0
+"Thanks for registering for the webinar. Here is the Zoom link to join.",0
+"Your reservation for 4 people at The Italian Place is confirmed for 7:30 PM.",0
+"Your movie tickets for the 8:00 PM showing are attached.",0
+"Here is your weekly digest of the top news stories in technology and science.",0
+"Check out our latest blog post on how to improve your productivity at work.",0
+"Your local weather forecast for the week is here. Expect rain on Thursday.",0
+"Here are the new recipes added to our cooking newsletter this week.",0
+"Your daily fitness summary: You walked 8,500 steps yesterday. Keep it up!",0
+"Thanks for subscribing to our mailing list. You'll receive updates once a month.",0
+"The new issue of our digital magazine is now available online.",0
+"Here is your monthly statement for your savings account.",0
+"Your gym membership has been successfully paused for the month of December.",0
+"Update: The park maintenance scheduled for this weekend has been postponed.",0
+"Hey team, just pushing a quick fix to the staging environment now.",0
+"I've attached the draft of the press release. Let me know if it looks good.",0
+"Can we push the meeting back by 30 minutes? I'm running a bit behind.",0
+"The client loved the new mockups! Great work everyone.",0
+"Please sign the attached NDA before we begin the project discussions.",0
+"I'll bring donuts to the office tomorrow to celebrate finishing the sprint.",0
+"Does anyone have a spare charger I can borrow for the afternoon?",0
+"The WiFi in the conference room is down, IT is currently looking into it.",0
+"I've added my comments to the Google Doc. Let's review them tomorrow.",0
+"Thanks for covering my shift yesterday, I owe you one!",0
+"Are you planning to attend the company holiday party next week?",0
+"The new coffee machine in the breakroom is finally working!",0
+"I'm out of the office today and will have limited access to email.",0
+"Can someone send me the link to the internal wiki page for the onboarding process?",0
+"The project deadline is fast approaching, let's make sure we hit all our milestones.",0
+"Great job on the quarterly earnings report. The numbers look fantastic.",0
+"Please remember to lock the front door if you're the last one leaving the office.",0
+"I've sent calendar invites for the 1-on-1 reviews next week.",0
+"The software update will be deployed at midnight. Expect a brief interruption.",0
+"Let's touch base on Monday morning to prioritize the tasks for the week.",0
+"Happy Friday! Hope everyone has a relaxing weekend.",0
+"I'll be taking PTO from the 15th to the 20th. Sarah will be my backup.",0
+"The budget for the new marketing initiative has been approved.",0
+"Can you double-check the figures on page 4 of the financial summary?",0
+"I've updated the seating chart for the new hires joining us next month.",0
+"Please review the updated style guide before creating any new marketing materials.",0
+"The vendor contract has been signed and the project can officially kick off.",0
+"I've ordered lunch for the team tomorrow. It should arrive around noon.",0
+"Let's schedule a retrospective to discuss what went well during the last sprint.",0
+"Thanks for your hard work on this project. The final result is excellent.",0
+"Action Required: Your Microsoft 365 password expires in 1 hour. Click here to retain your current password.",1
+"Security Alert: We blocked a suspicious login to your iCloud account. Verify your identity to restore access.",1
+"HR Memo: The updated 2024 remote work guidelines and compensation changes are attached. Please sign.",1
+"Your MetaMask wallet has been flagged for unusual activity. Click to verify your seed phrase.",1
+"PayPal: You authorized a payment of $899.99 to Coinbase. If this was not you, click here to cancel.",1
+"Final Notice: Your vehicle warranty has expired. Renew today to avoid out-of-pocket repair costs.",1
+"USPS: We tried to deliver your package today but the address is incomplete. Update details here.",1
+"Congratulations! Your email was selected for a $500 Costco gift card. Claim it within 24 hours.",1
+"IT Desk: Mandatory software update required for all employee laptops. Download the patch here.",1
+"Warning: Your Google Drive storage is full. You will stop receiving emails in 2 hours. Upgrade now.",1
+"Invoice #48291 from Norton LifeLock: Your account will be auto-charged $349.99 today.",1
+"Airdrop Alert: Connect your wallet now to claim your exclusive SOL tokens before the pool empties.",1
+"IRS Notification: Your tax return was flagged for review. Submit the attached W-2 verification form.",1
+"Your Netflix account is on hold due to a billing error. Update your payment method to resume watching.",1
+"Notice to Appear: A subpoena has been issued in your name. Download the court documents attached.",1
+"System Admin: Please validate your email credentials to migrate to the new secure server.",1
+"CashApp: A user has sent you $250.00! Click the link to accept the funds into your balance.",1
+"Delivery Exception: FedEx requires a $2.99 customs fee to release your international shipment.",1
+"Your Apple ID was used to sign in to a new Mac in Russia. Secure your account immediately.",1
+"Zoom Support: You missed a scheduled video conference. Click here to view the recorded transcript.",1
+"Your YouTube account has been suspended for violating Community Guidelines. Appeal this strike here.",1
+"DocuSign: Please review and sign the attached Non-Disclosure Agreement from our legal team.",1
+"Important: Your health insurance policy requires immediate update. Verify your SSN to continue coverage.",1
+"Bank of America Fraud Alert: Did you spend $450 at Best Buy? Reply Y or click to dispute.",1
+"You have 1 new encrypted voice message from a blocked caller. Listen to the audio file.",1
+"Hey, are we still doing the code review at 2 PM today?",0
+"The marketing assets for the new product launch are uploaded to the shared Google Drive.",0
+"Your DoorDash order from Chipotle is arriving in approximately 10 minutes.",0
+"Reminder: Your dog's annual checkup is scheduled for next Thursday at 9:00 AM.",0
+"I'm running about 5 minutes late to the morning standup. Start without me!",0
+"Receipt: Thank you for your purchase of $14.50 at Starbucks. View your transaction details.",0
+"Can you approve my PTO request in Workday before the end of the week?",0
+"The weekly newsletter: Top 10 Python libraries you should be using this month.",0
+"Thanks for grabbing lunch today! I'll Venmo you for my half of the bill.",0
+"Your flight DL492 to Seattle is on time. Boarding begins at 4:15 PM at Gate B12.",0
+"I pushed the bug fixes to the staging branch. Let me know if the tests pass.",0
+"Happy Birthday! Wishing you a fantastic day and a great year ahead.",0
+"Your monthly statement for your Chase Sapphire card is now available to view online.",0
+"Don't forget to submit your weekly timesheet by 5 PM on Friday.",0
+"The WiFi router is being replaced tonight at 10 PM, expect about 15 minutes of downtime.",0
+"Could you send me the link to the internal wiki page for setting up the local dev environment?",0
+"Your Amazon package has been delivered and left near the front door.",0
+"Are you bringing your famous potato salad to the neighborhood barbecue this weekend?",0
+"Great presentation today! The clients were really engaged with the new mockups.",0
+"Please find the meeting minutes from yesterday's sync attached for your records.",0
+"Just wanted to check in and see how the onboarding process is going for you.",0
+"Your Uber ride receipt: $24.15. Thank you for riding with us.",0
+"I'll be working offline for the next two hours to focus on writing the documentation.",0
+"Does anyone want to join a quick brainstorming session for the Q4 goals?",0
+"The office building will be closed on Monday for the national holiday. Enjoy the long weekend!",0

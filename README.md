@@ -1,14 +1,14 @@
 
 # MailSonar: AI Phishing Detector & Origin Tracker 🎯
 
-This project is an AI-powered cybersecurity tool that analyzes email content to instantly detect phishing attempts and malicious intent. It also features a built-in origin tracker that extracts hidden IP addresses from email headers to pinpoint and visualize the sender's exact geographic location on an interactive map.
+This project is an AI-powered cybersecurity tool that analyzes email content to instantly detect phishing attempts and malicious intent. 
 
 ## ✨ Features
 
 * **AI Threat Detection:** Uses a Machine Learning pipeline (TF-IDF & Random Forest) to analyze email text and classify it as *Phishing* or *Legitimate* with a high confidence score.
 * **Smart Data Augmentation:** Automatically detects small training datasets and injects synthetic phishing/legitimate examples to ensure baseline model accuracy.
-* **IP Header Extraction:** Parses raw email headers to extract public IP addresses while smartly ignoring local/private internal networks.
-* **Geographic Origin Tracking:** Pings external geolocation APIs to map IP addresses to their exact City, Country, ISP, and coordinates.
+
+
 * **Interactive UI:** Features a sleek, dark-mode React frontend with a pulsing mini-map visualization and detailed threat breakdowns.
 
 ## 🛠️ Tech Stack
